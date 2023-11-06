@@ -1,0 +1,16 @@
+C:\Users\goss_rivero\source\repos\Lab2_Ivan_WPF\obj\Debug\Lab2_Ivan_WPF.csproj.AssemblyReference.cache
+C:\Users\goss_rivero\source\repos\Lab2_Ivan_WPF\obj\Debug\Lab2_Ivan_WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\goss_rivero\source\repos\Lab2_Ivan_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\goss_rivero\source\repos\Lab2_Ivan_WPF\obj\Debug\App.g.cs
+C:\Users\goss_rivero\source\repos\Lab2_Ivan_WPF\obj\Debug\Lab2_Ivan_WPF_MarkupCompile.cache
+C:\Users\goss_rivero\source\repos\Lab2_Ivan_WPF\obj\Debug\Lab2_Ivan_WPF_MarkupCompile.lref
+C:\Users\goss_rivero\source\repos\Lab2_Ivan_WPF\bin\Debug\Lab2_Ivan_WPF.exe.config
+C:\Users\goss_rivero\source\repos\Lab2_Ivan_WPF\bin\Debug\Lab2_Ivan_WPF.exe
+C:\Users\goss_rivero\source\repos\Lab2_Ivan_WPF\bin\Debug\Lab2_Ivan_WPF.pdb
+C:\Users\goss_rivero\source\repos\Lab2_Ivan_WPF\obj\Debug\MainWindow.baml
+C:\Users\goss_rivero\source\repos\Lab2_Ivan_WPF\obj\Debug\Lab2_Ivan_WPF.g.resources
+C:\Users\goss_rivero\source\repos\Lab2_Ivan_WPF\obj\Debug\Lab2_Ivan_WPF.Properties.Resources.resources
+C:\Users\goss_rivero\source\repos\Lab2_Ivan_WPF\obj\Debug\Lab2_Ivan_WPF.csproj.GenerateResource.cache
+C:\Users\goss_rivero\source\repos\Lab2_Ivan_WPF\obj\Debug\Lab2_Ivan_WPF.csproj.CoreCompileInputs.cache
+C:\Users\goss_rivero\source\repos\Lab2_Ivan_WPF\obj\Debug\Lab2_Ivan_WPF.exe
+C:\Users\goss_rivero\source\repos\Lab2_Ivan_WPF\obj\Debug\Lab2_Ivan_WPF.pdb
